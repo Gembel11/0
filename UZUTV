@@ -370,7 +370,7 @@ http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52860
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORTS",Astro Supersport 3HD
 http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52861
-#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORTS",Astro Supersport 4
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="SPORTS",Astro Supersport 4
 http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
 #EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="SPORTS",Astro Supersport 4HD
 http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52862
@@ -582,6 +582,48 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.m3u8
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 12
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.m3u8
+
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN 1 SD
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/167
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN 2 SD
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/168
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN 3 SD
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/169
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN 4 SD
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/170
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN 5 SD
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/171
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN 6 SD
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/172
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN 7 SD
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/173
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN 8 SD
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/174
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN 9 SD
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/175
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN 10 SD
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/176
+
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD1
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/88
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD2
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/89
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD3
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/90
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD4
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/91
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD5
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/92
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD6
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/93
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD7
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/94
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD8
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/95
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD9
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/96
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD10
+http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/97
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="BEIN SPORTS",BEIN SPORTS
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
