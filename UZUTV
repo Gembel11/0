@@ -620,10 +620,10 @@ http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/93
 http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/94
 #EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD8
 http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/95
-#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD9
-http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/96
-#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD10
-http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/97
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.ts
+#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD11
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1451.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="BEIN SPORTS",BEIN SPORTS
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
