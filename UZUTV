@@ -358,22 +358,22 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORTS", Fox Sport 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="SPORTS",Astro Supersport 1
+#EXTINF:-1 tvg-id="AS1" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="SPORTS",Astro Supersport 1
 http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="SPORTS",Astro Supersport 1HD
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52859
-#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="SPORTS",Astro Supersport 2
+#EXTINF:-1 tvg-id="AS1 HD" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="SPORTS",Astro Supersport 1HD
+http://190.2.155.140:8278/streams/d/supersport1_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="AS2" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="SPORTS",Astro Supersport 2
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="SPORTS",Astro Supersport 2HD
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52860
-#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORTS",Astro Supersport 3
+#EXTINF:-1 tvg-id="AS2 HD" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="SPORTS",Astro Supersport 2HD
+http://190.2.155.140:8278/streams/d/supersport2_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="AS3" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORTS",Astro Supersport 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORTS",Astro Supersport 3HD
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52861
-#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="SPORTS",Astro Supersport 4
+#EXTINF:-1 tvg-id="AS3 HD" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORTS",Astro Supersport 3HD
+http://190.2.155.140:8278/streams/d/supersport3_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="AS4" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="SPORTS",Astro Supersport 4
 http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="SPORTS",Astro Supersport 4HD
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52862
+#EXTINF:-1 tvg-id="AS4 HD" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="SPORTS",Astro Supersport 4HD
+http://190.2.155.140:8278/streams/d/supersport4_pye/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier Football HD 1
 https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier Football HD 2
@@ -433,66 +433,66 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 ===============   (( SPORTS 2 ))  ===============
 
-#EXTINF:-1, group-title="SPORTS 2" tvg-logo="", Arena Sport 1 HR
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/916
-#EXTINF:-1, group-title="SPORTS 2" tvg-logo="", ARENA SPORT 1 (SR)
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47848
-#EXTINF:-1, group-title="SPORTS 2" tvg-logo="", Arena Sport 2 HR
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/914
+#EXTINF:-1, group-title="SPORTS 2" tvg-logo="", Abu Dabhi Sport 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1, group-title="SPORTS 2" tvg-logo="", Abu Dabhi Sport 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1, group-title="SPORTS 2" tvg-logo="", Abu Dabhi Sport 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", ARENA SPORT 2 (SR)
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47847
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", Arena Sport 3 HR
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/912
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", ARENA SPORT 3 (SR)
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47846
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", Arena Sport 4 HR
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/910
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", ARENA SPORT 4 (SR)
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47845
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", Arena Sport 5 HR
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/908
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", ARENA SPORT 5 (SR)
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47844
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", Digi Sport 1
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/46984
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", Digi Sport 2
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/46983
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", Digi Sport 3
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/46982
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", Digi Sport 4
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/46981
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", Digi World
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47016
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", Eurosport 1
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/892
+http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", Eurosport 2
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/891
+http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", SPORT KLUB 1
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/904
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", SPORT KLUB 2
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/903
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", SPORT KLUB 3
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/902
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", SPORT KLUB 4
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47834
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", SPORT KLUB 5
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47833
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", SPORT KLUB 6
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47832
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", SPORT KLUB 7
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52025
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", SPORT KLUB 8
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52026
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", SPORT KLUB 10
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52024
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", SPORT KLUB Golf
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52028
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", SPORT TV 1 HD SLO
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47840
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", SPORT TV 2 HD SLO
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47839
+
 #EXTINF:-1, group-title="SPORTS 2" tvg-logo="", SPORT TV 3 HD SLO
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47838
+
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/es-real-madrid-tv-8842.jpg" group-title="SPORTS 2", REAL MADRID TV
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1629.ts
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/6c/50/0d/6c500dee-bed0-b482-9a79-78c134267b12/source/512x512bb.jpg" group-title="SPORTS 2", MU TV
@@ -657,7 +657,7 @@ http://210.210.155.35/qwr9ew/s/s16/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFTLKT7/aljazeera.png" group-title="NEWS", Aljazeera EN
 http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sW85XB1/abc.png" group-title="NEWS", ABC Australia
-https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214569119.m3u8
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="NEWS", Bloomberg
 http://45.126.83.51/uq2663/h/h03/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title="NEWS", CNA
@@ -667,7 +667,7 @@ https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214569126.m3u8
 #EXTINF:-1 tvg-id="cnbcasia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcasias_small.png" group-title="NEWS", CNBC Asia
 https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214569127.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="NEWS", CNN Indonesia
-https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214569128.m3u8
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b280000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="NEWS", CNN International
 http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
 #EXTINF:-1 tvg-id="dwtv" tvg-logo="https://i.ibb.co/1JSWx2N/dw.png" group-title="NEWS", DW
@@ -675,11 +675,11 @@ http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EuroNews" tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS",EuroNews
 https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214569138.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="NEWS", France 24
-http://210.210.155.35/qwr9ew/s/s22/01.m3u8
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png" group-title="NEWS", IDX
 https://cdn13jtedge.useetv.com/joss/14/idx/chunklist_w517092020_b684100_sleng_kamiselaluada.m3u8?enc=wDL0-lTYIOJW1xPt-k6_Iw&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613017881
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rt.png" group-title="NEWS",RUSSIA TODAY
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
+http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/seatoday.png" group-title="NEWS", SEA TODAY
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title="NEWS", TRT World
@@ -802,10 +802,10 @@ http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3487
 http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3488
 #EXTINF:-1, group-title="OTHER" tvg-logo="", HRT 3
 http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3489
-#EXTINF:-1, group-title="OTHER" tvg-logo="", HRT 4
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3490
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="OTHER", RT
-http://210.210.155.35/qwr9ew/s/s23/01.m3u8
+#EXTINF:-1, group-title="OTHER" tvg-logo="", Jasmine TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="OTHER", RT FRANCE
+http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="OTHER", CCTV 4
 http://210.210.155.35/qwr9ew/s/s19/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title="OTHER", CGTN Documentary
