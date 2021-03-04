@@ -688,30 +688,6 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="NEWS", NEWS
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
-===================  (( MALAYSIA ))  ====================
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MALAYSIA", TV 1
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53034
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MALAYSIA", TV 2
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53035
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MALAYSIA", TV 3
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53036
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MALAYSIA", TV 8
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53037
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MALAYSIA", TV 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MALAYSIA", TV 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MALAYSIA", TV 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MALAYSIA", TV 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MALAYSIA", TVN
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53039
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MALAYSIA", HELLO
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53040
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MALAYSIA", MALAYSIA CHANNEL
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
-
 ======================  ((( KOREAN )))  =====================
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="KOREAN", K+
@@ -792,6 +768,32 @@ https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8?
 https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_540/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="JAPAN",JAPAN
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
+
+===================  (( MALAYSIA ))  ====================
+
+#EXTINF:-1 tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="MALAYSIA", TV 1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="MALAYSIA", TV 2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MALAYSIA", TV 3
+http://live8.cdn.iptv8k.org/review_stream/tv3kbmm21/i.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MALAYSIA", TV 8
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53037
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MALAYSIA", TV 9
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53038
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MALAYSIA", TV 2
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="MALAYSIA", ASTRO BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvthai.my.to/logo/Astro-Citra-HD.png?rev=8" group-title="MALAYSIA", ASTRO CITRA
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest/scale-to-width-down/200?cb=20190111152636" group-title="MALAYSIA", ASTRO OASIS
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="MALAYSIA", HELL0
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MALAYSIA", MALAYSIA CHANNEL
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 ===================  (( OTHER ))  ================
