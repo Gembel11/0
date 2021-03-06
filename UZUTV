@@ -300,28 +300,30 @@ https://nonton.site:8443/novi/novi123/927
 #EXTINF:-1, group-title="MOVIES 2" tvg-logo="", WAKU-WAKU JAPAN
 https://nonton.site:8443/novi/novi123/717
 
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Soap
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1091
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Movies
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1115
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Super Kids
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1111
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Horror
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1097
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Folk 1
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1098
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Folk 2
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1092
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Film
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1104
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Extra
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1108
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Sci-Fi & Fantasy
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3734
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Zabava
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1093
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", TV 1000
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1099
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", CELESTIAL MOVIES
+http://50.7.161.82:8278/streams/d/Celestial1/playlist.m3u8
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", CCM MOVIES
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", TVN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", TV 1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", TV 2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", TV 3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", TV 8
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", TV 9
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", ASTRO CERIA
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", HELLO
+http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MOVIES 2",UZUTV MOVIES
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
