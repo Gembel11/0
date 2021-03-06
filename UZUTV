@@ -189,9 +189,9 @@ https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
 (( MOVIES ))
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="MOVIES", Galaxy
-https://cdn11jtedge.useetv.com/joss/15/galaxy/chunklist_w693733471_b684100_sleng.m3u8?enc=5XfLJ7Oscsjwn3S5j-g_jw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614059611
+https://nonton.site:8443/novi/novi123/29604
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIES", Galaxy Premium
-https://cdn11jtedge.useetv.com/joss/15/galaxypremium/chunklist_w462738238_b684100_sleng.m3u8?enc=VQSV7emx39Ylw8eHGtTMig&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614061536
+https://nonton.site:8443/novi/novi123/29603
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES", Celestial Movie
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png" group-title="MOVIES", Cinema EUROPE
@@ -200,11 +200,11 @@ http://45.126.83.51/uq2663/h/h18/01.m3u8
 http://210.210.155.35/uq2663/h/h04/01.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX" tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES",FOX
-http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
+https://nonton.site:8443/novi/novi123/95
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX ACTION MOVIES ID" tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="MOVIES",FOX ACTION MOVIES
 https://nonton.site:8443/novi/novi123/99
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX MOVIES" tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="MOVIES",FOX MOVIES
-http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
+https://nonton.site:8443/novi/novi123/98
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX LIFE" tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="MOVIES",FOX LIFE
 https://nonton.site:8443/novi/novi123/94
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX CRIME" tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="MOVIES",FOX CRIME
@@ -268,47 +268,38 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 ===================  MOVIES 2  =====================
 
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", FOX
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/887
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Fox Movies
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/888
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Fox Life
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/889
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Fox Crime
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/890
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", CINESTAR TV
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/895
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Cinestar Premiere 2
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/894
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", CINEMAX-1
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/907
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", CINEMAX-2
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/906
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", HBO 1
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3491
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", HBO 2
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3492
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", HBO 3
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3493
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES 2",CINEMAX 
+https://nonton.site:8443/novi/novi123/2156
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="MOVIES 2",HBO 
+https://nonton.site:8443/novi/novi123/210
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="MOVIES 2",HBO SIGNATURE 
+https://nonton.site:8443/novi/novi123/873
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="MOVIES 2",HBO FAMILY 
+https://nonton.site:8443/novi/novi123/592
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="MOVIES 2",HBO HITS 
+https://nonton.site:8443/novi/novi123/591
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="MOVIES 2",RED BY HBO
+https://nonton.site:8443/novi/novi123/4832
 
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", PINK 1
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1114
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", PINK 2
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1110
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Action
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1109
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Comedy
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1112
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Thriller
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1094
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Serije
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1107
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Romance
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1103
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Reality
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1095
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Premium
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1096
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", STAR MOVIES HD
+https://nonton.site:8443/novi/novi123/780
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", STAR MOVIES LEGEND
+https://nonton.site:8443/novi/novi123/759
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", STAR MOVIES WORLD
+https://nonton.site:8443/novi/novi123/381
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", K+
+https://nonton.site:8443/novi/novi123/18
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", S GEM
+https://nonton.site:8443/novi/novi123/770
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", S ONE
+https://nonton.site:8443/novi/novi123/19
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", TVN
+https://nonton.site:8443/novi/novi123/767
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", TVN MOVIES
+https://nonton.site:8443/novi/novi123/927
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="", WAKU-WAKU JAPAN
+https://nonton.site:8443/novi/novi123/717
+
 #EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Soap
 http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/1091
 #EXTINF:-1, group-title="MOVIES 2" tvg-logo="", Pink Movies
