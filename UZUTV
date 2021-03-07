@@ -97,9 +97,9 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 ======================  (( KIDS ))  =====================
 
 #EXTINF:-1 tvg-ID="" tvg-name="ANIPLUS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="KIDS",ANIPLUS
-https://cdn09jtedge.useetv.com/joss/14/aniplus/chunklist_w702059854_b684100_sleng.m3u8?enc=LW5R8e0b3FFs2h4qQSzWgQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614056353
+https://fikrulmkc.my.id/bagus/usee-aniplus.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ANIMAX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="KIDS", ANIMAX
-https://cdn09jtedge.useetv.com/joss/14/animax/chunklist_w2020410059_b684100_sleng.m3u8?enc=mZTrZv_M2ZJc3QaOc2vkpg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614056334
+https://fikrulmkc.my.id/bagus/usee-animax.m3u8
 #EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="KIDS", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DISNEY JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/80503a019de716ab75a9c4a172841964.png" group-title="KIDS", DISNEY CHANNEL
@@ -115,7 +115,7 @@ https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214567479.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="KIDS", Duck TV
 https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214567477.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS", Dunia Anak
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-duniaanak
+https://fikrulmkc.my.id/bagus/usee-duniaanak.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="KIDS", HipHip Horee
 https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214567474.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="KIDS", Horee
@@ -163,15 +163,15 @@ https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214567272.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="HIBURAN", IMC 
 https://nonton.site:8443/novi/novi123/35484
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="HIBURAN", BIOSKOP INDONESIA
-https://nonton.site:8443/novi/novi123/908
+https://fikrulmkc.my.id/bagus/usee-bioskopindonesia.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="HIBURAN", Z Bioskop
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=985e9a46e10005356bbaf194249f6856102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Citra Bioskop" tvg-logo="https://i.ibb.co/3SHxS6G/cbioskop.png" group-title="HIBURAN",Citra Bioskop
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=55479c55ebd1efd3ff125f1337100388102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="HIBURAN", Citra Drama
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=012d9fe15b2493f21902cd55603382ec102a6ed6587b5b8cb4ebbe972864690b
+https://fikrulmkc.my.id/bagus/usee-cdrama.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="HIBURAN", Dunia Lain
-https://cdn13jtedge.useetv.com/joss/14/dunialain/chunklist_w459200697_b684100_sleng_kamiselaluada.m3u8?enc=X53kReIQ3vvIOwLxBGS-iQ&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613016009
+https://fikrulmkc.my.id/bagus/usee-dunialain.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/3/3e/Drakor_Plus.png/revision/latest?cb=20200917123945" group-title="HIBURAN",Drakor Plus
 http://103.55.39.182/~dusktil2/a.m3u8?q=drakorplus
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="HIBURAN",K DRAMA
@@ -180,18 +180,21 @@ http://210.210.155.35/qwr9ew/s/s42/01.m3u8
 http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia
 #EXTINF:-1 tvg-id="sinemaindonesiax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPjBeL7gqYQJp7vYP7DPpxfHCCcXIoS2FqWQ&usqp=CAU" group-title="HIBURAN",SINEMA INDONESIA X
 http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia-x
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXUO2cD.png" group-title="HIBURAN",ATV
+http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/chunklist_w1201165770.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="HIBURAN", Lingua
 https://cdn13jtedge.useetv.com/joss/15/lingua/chunklist_w668998101_b684100_sleng_kamiselaluada.m3u8?enc=uhTb5E9qwmIa2G8pCpwpNQ&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613016007
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/y8YwtRZK/ZQTV.png" group-title="HIBURAN",ZQ DRAMA
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="HIBURAN",HIBURAN
 https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
 
-=====================================
-(( MOVIES ))
+========================  (( MOVIES ))  ================
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="MOVIES", Galaxy
-https://nonton.site:8443/novi/novi123/29604
+https://fikrulmkc.my.id/bagus/usee-galaxy.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIES", Galaxy Premium
-https://nonton.site:8443/novi/novi123/29603
+https://fikrulmkc.my.id/bagus/usee-galaxypremium.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES", Celestial Movie
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png" group-title="MOVIES", Cinema EUROPE
@@ -713,15 +716,15 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="KOREAN", K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="KOREAN", S ONE
-http://210.210.155.35/uq2663/h/h143/01.m3u8
+https://fikrulmkc.my.id/bagus/usee-sone.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN" group-title="KOREAN", TVN
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="KOREAN", TVN MOVIES 
-https://nonton.site:8443/novi/novi123/927
+https://fikrulmkc.my.id/bagus/usee-tvnmovies.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="KOREAN", Arirang
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="KOREAN", KBS World 
-http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
+https://fikrulmkc.my.id/bagus/usee-kbsworld.m3u8
 #EXTINF:-1, group-title="KOREAN" tvg-logo="https://www.infotelevisi.com/asset/images/tv/oh_k.jpg", OH!K
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/SBS.kr.png" ,SBS HD
@@ -737,7 +740,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 ================ ((( JAPAN ))) ==================
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="JAPAN", S GEM
-http://210.210.155.35/uq2663/h/h19/01.m3u8
+https://fikrulmkc.my.id/bagus/usee-sgem.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="JAPAN", Waku Waku Japan
 https://nonton.site:8443/novi/novi123/717
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="JAPAN", NHK WORLD
