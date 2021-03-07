@@ -183,7 +183,7 @@ http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia-x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXUO2cD.png" group-title="HIBURAN",ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/chunklist_w1201165770.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="HIBURAN", Lingua
-https://cdn13jtedge.useetv.com/joss/15/lingua/chunklist_w668998101_b684100_sleng_kamiselaluada.m3u8?enc=uhTb5E9qwmIa2G8pCpwpNQ&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613016007
+https://fikrulmkc.my.id/bagus/usee-lingua.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/y8YwtRZK/ZQTV.png" group-title="HIBURAN",ZQ DRAMA
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="HIBURAN",HIBURAN
@@ -196,11 +196,11 @@ https://fikrulmkc.my.id/bagus/usee-galaxy.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIES", Galaxy Premium
 https://fikrulmkc.my.id/bagus/usee-galaxypremium.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES", Celestial Movie
-http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+https://fikrulmkc.my.id/bagus/usee-celestialmovie.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png" group-title="MOVIES", Cinema EUROPE
 http://45.126.83.51/uq2663/h/h18/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES", Cinema World 
-http://210.210.155.35/uq2663/h/h04/01.m3u8
+https://fikrulmkc.my.id/bagus/usee-cinemaworld.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX" tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES",FOX
 https://nonton.site:8443/novi/novi123/95
@@ -543,9 +543,9 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 ===============   (( BEIN SPORTS )) ===============
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", Bein Sport 1 HD
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/52878
+https://fikrulmkc.my.id/bagus/usee-bein1.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="BEIN SPORTS", Bein Sport 2 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
+https://fikrulmkc.my.id/bagus/usee-bein2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="BEIN SPORTS", Bein Sports 1
 http://5.10.227.194:8000/play/a0mo/index.m3u8
@@ -686,7 +686,7 @@ http://45.126.83.51/uq2663/h/h03/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title="NEWS", CNA
 http://45.126.83.51/uq2663/h/h29/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="NEWS", CNBC Indonesia
-https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214569126.m3u8
+https://fikrulmkc.my.id/bagus/usee-cnbcindonesia.m3u8
 #EXTINF:-1 tvg-id="cnbcasia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcasias_small.png" group-title="NEWS", CNBC Asia
 https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214569127.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="NEWS", CNN Indonesia
@@ -742,7 +742,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="JAPAN", S GEM
 https://fikrulmkc.my.id/bagus/usee-sgem.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="JAPAN", Waku Waku Japan
-https://nonton.site:8443/novi/novi123/717
+https://fikrulmkc.my.id/bagus/usee-wakuwaku.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="JAPAN", NHK WORLD
 http://45.126.83.51/uq2663/h/h23/01.m3u8
 
