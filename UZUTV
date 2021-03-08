@@ -102,8 +102,7 @@ https://fikrulmkc.my.id/bagus/usee-aniplus.m3u8
 https://fikrulmkc.my.id/bagus/usee-animax.m3u8
 #EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="KIDS", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/80503a019de716ab75a9c4a172841964.png" group-title="KIDS", DISNEY CHANNEL
-https://nonton.site:8443/novi/novi123/37400
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby First
 https://fikrulmkc.my.id/bagus/usee-babyfirst.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby TV
@@ -114,6 +113,8 @@ https://fikrulmkc.my.id/bagus/usee-boomerang.m3u8
 https://nonton.site:8443/novi/novi123/680
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="KIDS", DaVinci
 https://fikrulmkc.my.id/bagus/usee-davinci.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY" tvg-logo="https://toppng.com/uploads/preview/new-disney-channel-logo-vector-free-download-11574247903pfuddm63lv.png" group-title="KIDS", DISNEY CHANNEL
+https://nonton.site:8443/novi/novi123/37400
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="KIDS", Duck TV
 https://fikrulmkc.my.id/bagus/usee-ducktv.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS", Dreamworks
@@ -134,9 +135,9 @@ https://fikrulmkc.my.id/bagus/usee-nickelodeon.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="KIDS", Zoo Moo 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=90fd26a243f6d14c4b3df082cdc8da66102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/spacetoon.png" group-title="KIDS",SPACETOON
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/200px-Spacetoon.png" group-title="KIDS",SPACETOON
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/toonmax.png" group-title="KIDS", CEEBIES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/500px-CBeebies.svg.png" group-title="KIDS", CEEBIES BBC
 https://nonton.site:8443/novi/novi123/491
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="KIDS",TV KIDS
