@@ -109,36 +109,36 @@ https://nonton.site:8443/novi/novi123/1204
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby TV
 https://nonton.site:8443/novi/novi123/296
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS", Boomerang
-https://nonton.site:8443/novi/novi123/305
+https://fikrulmkc.my.id/bagus/usee-boomerang.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS", Cartoon Network
 https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214567479.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="KIDS", DaVinci
+https://fikrulmkc.my.id/bagus/usee-davinci.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="KIDS", Duck TV
-https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214567477.m3u8
+https://fikrulmkc.my.id/bagus/usee-ducktv.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS", Dunia Anak
 https://fikrulmkc.my.id/bagus/usee-duniaanak.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="KIDS", HipHip Horee
 https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214567474.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="KIDS", Horee
-https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214567476.m3u8
+https://fikrulmkc.my.id/bagus/usee-horee.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="KIDS", M Kidz
 https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214567473.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS", Nick Junior
 https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214567481.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="KIDS", Nickelodeon
-https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214567482.m3u8
+https://fikrulmkc.my.id/bagus/usee-nickelodeon.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="KIDS", Da Vinci Learning
 https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-davinci 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS", Dreamworks
 https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-dreamworks 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="KIDS", Zoo Moo 
 https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6533 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="KIDS", DaVinci
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6549
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/spacetoon.png" group-title="KIDS",SPACETOON
-http://210.210.155.35/qwr9ew/s/s39/01.m3u8
+
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/toonmax.png" group-title="KIDS",TOONMAX
-http://210.210.155.35/qwr9ew/s/s59/01.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="KIDS",TV KIDS
 https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
