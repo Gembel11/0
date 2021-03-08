@@ -340,9 +340,9 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafd102a6ed6587b5b8cb4ebbe972864690b
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS", Champion TV 1
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
+https://fikrulmkc.my.id/bagus/usee-champion1.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS", Champion TV 2
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
+https://fikrulmkc.my.id/bagus/usee-champion2.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS", UseeSports 1
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", UseeSports 2
@@ -356,19 +356,19 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="AS1" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="SPORTS",Astro Supersport 1
 http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
 #EXTINF:-1 tvg-id="AS1 HD" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="SPORTS",Astro Supersport 1HD
-http://tv.wakds.xyz:8080/live/B1uldhPMU3/KwrGX9Q5gO/3581.ts
+
 #EXTINF:-1 tvg-id="AS2" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="SPORTS",Astro Supersport 2
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 tvg-id="AS2 HD" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="SPORTS",Astro Supersport 2HD
-http://tv.wakds.xyz:8080/live/B1uldhPMU3/KwrGX9Q5gO/3582.ts
+
 #EXTINF:-1 tvg-id="AS3" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORTS",Astro Supersport 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:-1 tvg-id="AS3 HD" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORTS",Astro Supersport 3HD
-http://tv.wakds.xyz:8080/live/B1uldhPMU3/KwrGX9Q5gO/3583.ts
+
 #EXTINF:-1 tvg-id="AS4" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="SPORTS",Astro Supersport 4
 http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
 #EXTINF:-1 tvg-id="AS4 HD" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="SPORTS",Astro Supersport 4HD
-http://tv.wakds.xyz:8080/live/B1uldhPMU3/KwrGX9Q5gO/3584.ts
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier Football HD 1
 https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier Football HD 2
@@ -405,6 +405,16 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV5.pt.png" group-title="SPORTS",SPORT TV 5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV1.pt.png" group-title="SPORTS",SPORT TV 1HD
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV2.pt.png" group-title="SPORTS",SPORT TV 2HD
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV3.pt.png" group-title="SPORTS",SPORT TV 3HD
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV4.pt.png" group-title="SPORTS",SPORT TV 4HD
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/SportTV5.pt.png" group-title="SPORTS",SPORT TV 5HD
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ogiX67s7-ngXWADPdP7Oo3k7uQiHHG6V5A&usqp=CAU",BT Sport 1 HD
 http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/chunks.m3u8
@@ -414,11 +424,9 @@ http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/chunks.m3u8
 http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT Sport 1
-http://tv.wakds.xyz:8080/live/B1uldhPMU3/KwrGX9Q5gO/3574.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="SPORTS",BT Sport 2
-http://tv.wakds.xyz:8080/live/B1uldhPMU3/KwrGX9Q5gO/3572.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="SPORTS",BT Sport 3
-http://tv.wakds.xyz:8080/live/B1uldhPMU3/KwrGX9Q5gO/3573.ts
+
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/ElevenSports_1.png" tvg-name="ELEVEN SPORTS 1" group-title="SPORTS",ELEVEN SPORTS 1
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ElevenSports_2.png" tvg-name="ELEVEN SPORTS 2"  group-title="SPORTS",ELEVEN SPORTS 2
@@ -656,11 +664,11 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="KNOWLEDGE", Discovery
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="KNOWLEDGE", National Geographic
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/53031
+https://fikrulmkc.my.id/bagus/usee-natgeo.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="KNOWLEDGE", Nat Geo People
-https://nonton.site:8443/novi/novi123/455
+https://fikrulmkc.my.id/bagus/usee-natgeopeople.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="KNOWLEDGE", Nat Geo Wild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+https://fikrulmkc.my.id/bagus/usee-natgeowild.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="KNOWLEDGE", Crime Investigation
 https://nonton.site:8443/novi/novi123/332
 
@@ -718,6 +726,8 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="KOREAN", S ONE
 https://fikrulmkc.my.id/bagus/usee-sone.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN" group-title="KOREAN", TVN
+https://fikrulmkc.my.id/bagus/usee-tvn.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN" group-title="KOREAN", TVN (Video)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="KOREAN", TVN MOVIES 
 https://fikrulmkc.my.id/bagus/usee-tvnmovies.m3u8
