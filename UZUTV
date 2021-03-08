@@ -137,8 +137,8 @@ https://fikrulmkc.my.id/bagus/usee-nickelodeon.m3u8
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=90fd26a243f6d14c4b3df082cdc8da66102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/Spacetoon.png/200px-Spacetoon.png" group-title="KIDS",SPACETOON
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/500px-CBeebies.svg.png" group-title="KIDS", CEEBIES BBC
-https://nonton.site:8443/novi/novi123/491
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/500px-CBeebies.svg.png" group-title="KIDS", CBEEBIES BBC
+http://51.52.156.22:8888/http/003
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="KIDS",TV KIDS
 https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
