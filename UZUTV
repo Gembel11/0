@@ -365,9 +365,9 @@ https://fikrulmkc.my.id/bagus/usee-champion1.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS", Champion TV 2
 https://fikrulmkc.my.id/bagus/usee-champion2.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS", UseeSports 1
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
+https://fikrulmkc.my.id/bagus/usee-useesport.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", UseeSports 2
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
+https://fikrulmkc.my.id/bagus/usee-nba.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="SPORTS", Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="SPORTS", Fox Sport 2
@@ -389,6 +389,17 @@ http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:-1 tvg-id="AS4" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="SPORTS",Astro Supersport 4
 http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
 #EXTINF:-1 tvg-id="AS4 HD" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="SPORTS",Astro Supersport 4HD
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier HD 1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier HD 2
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier HD 3
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",True Premier HD 4
+http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",True Premier HD 5
+http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier Football HD 1
 https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
@@ -480,11 +491,11 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 ===============   (( SPORTS 2 ))  ===============
 
-#EXTINF:-1, group-title="SPORTS 2" tvg-logo="", Abu Dabhi Sport 1
+#EXTINF:-1, group-title="SPORTS 2" tvg-logo="https://m.kooora4you.com/images/min/adsport1.png", Abu Dabhi Sport 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1, group-title="SPORTS 2" tvg-logo="", Abu Dabhi Sport 2
+#EXTINF:-1, group-title="SPORTS 2" tvg-logo="https://m.kooora4you.com/images/min/adsport2.png", Abu Dabhi Sport 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1, group-title="SPORTS 2" tvg-logo="", Abu Dabhi Sport 3
+#EXTINF:-1, group-title="SPORTS 2" tvg-logo="https://m.kooora4you.com/images/min/adsport3.png", Abu Dabhi Sport 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="SPORTS 2",ARENA SPORT 1
@@ -848,14 +859,16 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 ===================  (( OTHER ))  ================
 
-#EXTINF:-1, group-title="OTHER" tvg-logo="", HRT 1
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3487
-#EXTINF:-1, group-title="OTHER" tvg-logo="", HRT 2
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3488
-#EXTINF:-1, group-title="OTHER" tvg-logo="", HRT 3
-http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/3489
-#EXTINF:-1, group-title="OTHER" tvg-logo="", Jasmine TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5wwJTR7/bisnet-lifestyle.png" group-title="OTHER", Bisnet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qnWNK6N/DENS-LIFESTYLE.png" group-title="OTHER",DENS LIFESTYLE
+http://210.210.155.35/session/6afa4666-b06f-11ea-b559-9431acada584/uq2663/h/h28/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13p5v7w3/logo-eatgo-big1.png" group-title="OTHER",Eat&GO [Usee]
+https://fikrulmkc.my.id/bagus/usee-eatgo.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpgxNjcv/logo-fashiontv-big1.png" group-title="OTHER",FASHION HD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png?v=2.0.0.13" group-title="OTHER",FASHION TV
+https://nonton.site:8443/novi/novi123/280
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="OTHER", RT FRANCE
 http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="OTHER", CCTV 4
@@ -869,10 +882,6 @@ http://210.210.155.35/qwr9ew/s/s38/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?v=2.0.0.13" group-title="OTHER",TV5MONDE
 http://210.210.155.35/qwr9ew/s/s24/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png?v=2.0.0.13" group-title="OTHER",Fashion TV
-https://nonton.site:8443/novi/novi123/280
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png?v=2.0.0.13" group-title="OTHER",Fashion tv Show
-https://bozztv.com:443/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="OTHER",HGTV
 https://nonton.site:8443/novi/novi123/537
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="OTHER", EGG GAME
@@ -881,6 +890,8 @@ http://45.126.83.51/uq2663/h/h22/01.m3u8
 http://45.126.83.51/uq2663/h/h01/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/LifeStyles_Condoms_Logo.svg/562px-LifeStyles_Condoms_Logo.svg.png" group-title="OTHER", LIFE STYLE
 http://45.126.83.51/uq2663/h/h28/01.m3u8
+#EXTINF:-1, group-title="OTHER" tvg-logo="", Jasmine TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/y4nR7h0L1cO-DaTDy2M0-IM5fY0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6747/zing-74f73f.jpg" tvg-id="" tvg-name"ZING" group-title="OTHER", ZING
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=ef452c63f81d0105dd4486f775adec81102a6ed6587b5b8cb4ebbe972864690b
 
