@@ -54,8 +54,6 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvedukasi 
 #EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="TV INDO",TVRI 
 http://210.210.155.35/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="TV INDO",MAGNA TV 
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/8x378:706x1049/x/photo/2020/10/14/275337875.png" group-title="TV INDO", MOLA TV FREE
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="TV INDO", MYTV
@@ -80,12 +78,28 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="BALI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="TV LOKAL",BALI TV 
 https://nonton.site:8443/novi/novi123/889
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kX8vStpX/bandung-tv.png" group-title="TV LOKAL",Bandung TV
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NMMwkfg/BNTV.png" group-title="TV LOKAL",BNTV Channel
+https://andriant.net/andrian.m3u8?channel=bn-tv
 #EXTINF:-1 tvg-id="" tvg-name="JAK TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13" group-title="TV LOKAL",JAK TV 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d102a6ed6587b5b8cb4ebbe972864690b 
 #EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.13" group-title="TV LOKAL",JTV
 http://122.248.43.138:1935/ch2/myStream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JITV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_small.png?v=2.0.0.13" group-title="TV LOKAL",JITV
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-jitv 
+https://fikrulmkc.my.id/bagus/usee-jitv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT3grLq6/DIGDAYA-TV.png" group-title="TV LOKAL",DIGDAYA TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqJ9wG6n/magna-channel.png" group-title="TV LOKAL",MAGNA TV 
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CM6w8Rft/persija.png" group-title="TV LOKAL",Persija TV
+http://stream1.ninmedia.tv:1935/persijatv/udp.stream_360p/chunklist_w799388038.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qn1ECVd.png" group-title="TV LOKAL",Radar Cirebon TV
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SnATgIC.png" group-title="TV LOKAL",Radar Lampung TV
+http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yU19zfG.png" group-title="TV LOKAL",Radar Tasikmalaya TV
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TATV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/TATV_logo.svg/400px-TATV_logo.svg.png" group-title="TV LOKAL", TATV
 http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040332.png" group-title="TV LOKAL",TVKU
@@ -634,22 +648,6 @@ http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/175
 http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/176
 
 #EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD1
-http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/88
-#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD2
-http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/89
-#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD3
-http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/90
-#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD4
-http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/91
-#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD5
-http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/92
-#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD6
-http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/93
-#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD7
-http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/94
-#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD8
-http://195.154.165.98:25461/mrconnect20170/zxdcfvgb/95
-#EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD1
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.ts
 #EXTINF:-1 group-title=" BEIN SPORTS" tvg-logo="", beIN SPORTS HD11
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1451.ts
@@ -805,9 +803,9 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 ===================  (( MALAYSIA ))  ====================
 
-#EXTINF:-1 tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="MALAYSIA", TV 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHk4Hq0c/1591197858382.png" group-title="MALAYSIA", TV 1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="MALAYSIA", TV 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5SStq05/1591197846160.png" group-title="MALAYSIA", TV 2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MALAYSIA", TV 3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
@@ -816,23 +814,23 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d8/TV9logo_baru.jpg/400px-TV9logo_baru.jpg" group-title="MALAYSIA", TV 9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/ceria/home/channellogo-astroceria2.png" group-title="MALAYSIA", ASTRO CERIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsrrkbfM/ASTRO-CERIA.png" group-title="MALAYSIA", ASTRO CERIA
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/131-300_orig.png" group-title="MALAYSIA", ASTRO CITRA
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest/scale-to-width-down/200?cb=20190111152636" group-title="MALAYSIA", ASTRO OASIS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nL0nR8jt/1591197756282.png" group-title="MALAYSIA", ASTRO OASIS
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MALAYSIA", ASTRO PRIMA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJcxSg7q/1591197763147.png" group-title="MALAYSIA", ASTRO PRIMA
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="MALAYSIA", BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="MALAYSIA", HELLO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnDGV4Bd/HELLO.png" group-title="MALAYSIA", HELLO
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="MALAYSIA", HELL0 HD
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="MALAYSIA", ASTRO ARENA
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="MALAYSIA", RTM SPORTS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr6F4vsj/1591197703800.png" group-title="MALAYSIA", RTM SPORTS
 http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MALAYSIA", MALAYSIA CHANNEL
