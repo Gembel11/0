@@ -45,10 +45,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4b
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Usee Prime" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13" group-title="TV INDO",Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="TV INDO", Bisnet Lifestyle
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="TV INDO", Bisnet Adventure 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Edukasi" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="TV INDO",TV Edukasi 
 https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-tvedukasi 
@@ -878,7 +874,11 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 ===================  (( OTHER ))  ================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5wwJTR7/bisnet-lifestyle.png" group-title="OTHER", Bisnet Lifestyle
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZV1xoC7.png" group-title="OTHER",AFN
+https://fikrulmkc.my.id/bagus/usee-afc.m3u8
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="OTHER", Bisnet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="OTHER", Bisnet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qnWNK6N/DENS-LIFESTYLE.png" group-title="OTHER",DENS LIFESTYLE
@@ -926,6 +926,12 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=2e2c4bf7ceaa4712a72dd5ee136dc9a8102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Karaoke_channel_id.png/revision/latest/scale-to-width-down/340?cb=20190711121840" group-title="MUSIC",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PqE3nYg.png" group-title="MUSIC",MALEO TV
+https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/chunklist_w970298173.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/SsyTYFfh/logo-mtvlive-big.png" group-title="MUSIC",MTV LIVE HD
+https://fikrulmkc.my.id/bagus/usee-mtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v5TptMC.png" group-title="MUSIC",POP MUSIK
+https://5d63d49f772ce.streamlock.net//popmusik/udp.stream_360p/chunklist_w176140401.m3u8
 #EXTINF:-1 tvg-id="b4umovies" tvg-logo="http://202.74.236.189/~uzbwkzam/img/b4umusic.png" group-title="MUSIC",B4U MUSIC
 http://103.55.39.182/~dusktil2/a.m3u8?q=b4umusicindia
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/channelvchina.png" group-title="MUSIC",CHANNEL V CHINA
