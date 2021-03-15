@@ -155,7 +155,7 @@ http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="KIDS",TV KIDS
 https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
 
-================== (( HIBURAN )) ===============
+================== (( HIBURAN )) ==================
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="HIBURAN",AXN
 https://fikrulmkc.my.id/bagus/usee-axn.m3u8
@@ -460,9 +460,13 @@ http://83.222.34.62:9000/play/a0dm/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/ElevenSports_3.png" tvg-name="ELEVEN SPORTS 3" group-title="SPORTS",ELEVEN SPORTS 3
 
 #EXTINF:-1 tvg-logo="http://vip-tv.biz/uploads/posts/2020-05/1589877958_1589711479_1587969202_setanta1.png" group-title="SPORTS",  Setanta Sports 1
-http://92.43.140.204:80/s81/index.m3u8
+http://92.43.140.204/s81/01.m3u8
 #EXTINF:-1 tvg-logo="http://vip-tv.biz/uploads/posts/2020-05/1589960575_1589716161_1587972400_setanta2.png" group-title="SPORTS",  Setanta Sports 2
-http://92.43.140.200/s82/04.m3u8
+http://92.43.140.204/s82/01.m3u8
+#EXTINF:-1 tvg-logo="http://vip-tv.biz/uploads/posts/2020-05/1589877958_1589711479_1587969202_setanta1.png" group-title="SPORTS",  Setanta Sports 1 (Backup)
+http://ott-cdn.ucom.am/s81/01.m3u8
+#EXTINF:-1 tvg-logo="http://vip-tv.biz/uploads/posts/2020-05/1589960575_1589716161_1587972400_setanta2.png" group-title="SPORTS",  Setanta Sports 2 (Backup)
+http://ott-cdn.ucom.am/s82/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
 http://iptvtree.net:8080/Line1051/f4fffd47/74893
