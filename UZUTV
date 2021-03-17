@@ -854,9 +854,9 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCUpalh-8_Qq5HqZrmV4GJ2s54Zo2S1v25A&usqp=CAU" group-title="OTHER",AFN
 https://fikrulmkc.my.id/bagus/usee-afc.m3u8
-#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="OTHER", Bisnet Adventure
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png" group-title="OTHER", Bisnet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="OTHER", Bisnet Lifestyle
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C5wwJTR7/bisnet-lifestyle.png" group-title="OTHER", Bisnet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qnWNK6N/DENS-LIFESTYLE.png" group-title="OTHER",DENS LIFESTYLE
@@ -888,7 +888,7 @@ http://45.126.83.51/uq2663/h/h22/01.m3u8
 http://45.126.83.51/uq2663/h/h01/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/LifeStyles_Condoms_Logo.svg/562px-LifeStyles_Condoms_Logo.svg.png" group-title="OTHER", LIFE STYLE
 http://45.126.83.51/uq2663/h/h28/01.m3u8
-#EXTINF:-1, group-title="OTHER" tvg-logo="", Jasmine TV
+#EXTINF:-1, group-title="OTHER" tvg-logo="https://image.roku.com/channels/images/e0a7e2d852d445f4ba5051064b0e0b6e-hd.png", Jasmine TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/y4nR7h0L1cO-DaTDy2M0-IM5fY0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6747/zing-74f73f.jpg" tvg-id="" tvg-name"ZING" group-title="OTHER", ZING
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=ef452c63f81d0105dd4486f775adec81102a6ed6587b5b8cb4ebbe972864690b
@@ -917,9 +917,8 @@ http://103.55.39.182/~dusktil2/a.m3u8?q=vchina
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mtvchina.png" group-title="MUSIC",MTV CHINA
 http://103.55.39.182/~dusktil2/a.m3u8?q=mtvchina 
 
-#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/6EIy-Lc9b2I4BS4p5ok3NaKI0vYvmdfSceBCmMqI5UFQfsTvp2FsU2MprfIYclfRbt4=s300" group-title="MUSIC", Happy Asmara - Sambel Terasi (DJ Remix) [Official Music Video] 
-https://www.googleapis.com/drive/v3/files/1FcuEk1IEKq5bOa3x-HV4X_neWS2_GCKg?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0 
- 
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/6EIy-Lc9b2I4BS4p5ok3NaKI0vYvmdfSceBCmMqI5UFQfsTvp2FsU2MprfIYclfRbt4=s300" group-title="MUSIC", Happy Asmara - Sambel Terasi (DJ Remix
+https://www.googleapis.com/drive/v3/files/1FcuEk1IEKq5bOa3x-HV4X_neWS2_GCKg?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
 #EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/6EIy-Lc9b2I4BS4p5ok3NaKI0vYvmdfSceBCmMqI5UFQfsTvp2FsU2MprfIYclfRbt4=s300" group-title="MUSIC", Happy Asmara - Bojomu Semangatku [Official Music Video] 
 https://www.googleapis.com/drive/v3/files/1wHDTk537d1YNA1ul8WPEpad98hjDC0Id?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0 
 
