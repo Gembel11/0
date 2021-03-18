@@ -631,8 +631,8 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.m3u8
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 11
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 12
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", YAALAA SPORTS
+https://d2ff34xrncjkdz.cloudfront.net/out/v1/2bcc2a28ecab4aeca5c18b64a4af0f17/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="BEIN SPORTS",BEIN SPORTS
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
