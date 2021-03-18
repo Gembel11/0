@@ -368,20 +368,13 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORTS", Fox Sport 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="AS1" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="SPORTS",Astro Supersport 1
-http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
-#EXTINF:-1 tvg-id="AS1 HD" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="SPORTS",Astro Supersport 1HD
-
+http://starshare.live:8080/live/120120/120120/5480.ts
 #EXTINF:-1 tvg-id="AS2" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="SPORTS",Astro Supersport 2
-http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 tvg-id="AS2 HD" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="SPORTS",Astro Supersport 2HD
-
+http://starshare.live:8080/live/120120/120120/5481.ts
 #EXTINF:-1 tvg-id="AS3" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORTS",Astro Supersport 3
-http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-#EXTINF:-1 tvg-id="AS3 HD" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="SPORTS",Astro Supersport 3HD
-
+http://starshare.live:8080/live/120120/120120/5482.ts
 #EXTINF:-1 tvg-id="AS4" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="SPORTS",Astro Supersport 4
-http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
-#EXTINF:-1 tvg-id="AS4 HD" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="SPORTS",Astro Supersport 4HD
+http://starshare.live:8080/live/120120/120120/5483.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier HD 1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
@@ -509,7 +502,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c65ab974f6bdc4
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="SPORTS 2",Eurosport 1
 https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png" group-title="SPORTS 2",Eurosport 2
 https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
 
@@ -906,46 +898,50 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="MUSIC",MALEO TV
 https://5d63d49f772ce.streamlock.net/maleo/udp.stream_360p/chunklist_w970298173.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNM8mxhD/logo-ikonser-big.png" group-title="MUSIC",I-KONSER
+https://fikrulmkc.my.id/bagus/usee-ikonser.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/SsyTYFfh/logo-mtvlive-big.png" group-title="MUSIC",MTV LIVE HD
 https://fikrulmkc.my.id/bagus/usee-mtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="MUSIC",POP MUSIK
 https://5d63d49f772ce.streamlock.net//popmusik/udp.stream_360p/chunklist_w176140401.m3u8
-#EXTINF:-1 tvg-id="b4umovies" tvg-logo="http://202.74.236.189/~uzbwkzam/img/b4umusic.png" group-title="MUSIC",B4U MUSIC
+#EXTINF:-1 tvg-id="b4umovies" tvg-logo="https://i.postimg.cc/xTW6yb3g/B4-U-MUSIC.png" group-title="MUSIC",B4U MUSIC
 http://103.55.39.182/~dusktil2/a.m3u8?q=b4umusicindia
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/channelvchina.png" group-title="MUSIC",CHANNEL V CHINA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fypc4KYV/CHANNEL-V.png" group-title="MUSIC",CHANNEL V CHINA
 http://103.55.39.182/~dusktil2/a.m3u8?q=vchina
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mtvchina.png" group-title="MUSIC",MTV CHINA
-http://103.55.39.182/~dusktil2/a.m3u8?q=mtvchina 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkjTz25S/MTV.png" group-title="MUSIC",MTV CHINA
+http://103.55.39.182/~dusktil2/a.m3u8?q=mtvchina
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8PKgbNxd/MTV-BIGGEST.png" group-title="MUSIC",MTV BIGGEST POP
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTTfn8YX/MOLATV.png" group-title="MUSIC",MOLATV
+http://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/6EIy-Lc9b2I4BS4p5ok3NaKI0vYvmdfSceBCmMqI5UFQfsTvp2FsU2MprfIYclfRbt4=s300" group-title="MUSIC", Happy Asmara - Sambel Terasi (DJ Remix
 https://www.googleapis.com/drive/v3/files/1FcuEk1IEKq5bOa3x-HV4X_neWS2_GCKg?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
-#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/6EIy-Lc9b2I4BS4p5ok3NaKI0vYvmdfSceBCmMqI5UFQfsTvp2FsU2MprfIYclfRbt4=s300" group-title="MUSIC", Happy Asmara - Bojomu Semangatku [Official Music Video] 
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/6EIy-Lc9b2I4BS4p5ok3NaKI0vYvmdfSceBCmMqI5UFQfsTvp2FsU2MprfIYclfRbt4=s300" group-title="MUSIC", Happy Asmara - Bojomu Semangatku
 https://www.googleapis.com/drive/v3/files/1wHDTk537d1YNA1ul8WPEpad98hjDC0Id?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC", Denny Caknan - Kartonyono Medot Janji (Official Music) 
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-GWYMMjhwXzeU4xG8-PgmTDA-t500x500.jpg" group-title="MUSIC", Denny Caknan - Kartonyono Medot Janji
 https://www.googleapis.com/drive/v3/files/1GtlFcxeYlcBesYsLXQ5lnnqCuNY6O_Pj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC", Nella Kharisma - Jaran goyang [Official Music]
+#EXTINF:-1 tvg-logo="https://i.kfs.io/album/global/33085406,0v1/fit/500x500.jpg" group-title="MUSIC", Nella Kharisma - Jaran goyang
 https://www.googleapis.com/drive/v3/files/1hdtwM_l_0Gy2TbEN3vLRcx4_ALgfN0oD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
  
-#EXTINF:-1 tvg-logo="https://img7.androidappsapk.co/zcj_Sh3mmXKiz9SMA4eOAv1_YhOsYiujlVQ7zjNokdyBeHUQeJOtDqBkPfmmJdgcSa17=s300" group-title="MUSIC", Jihan Audy - Rela Demi Cinta ( Official Music Video ) 
+#EXTINF:-1 tvg-logo="https://img7.androidappsapk.co/zcj_Sh3mmXKiz9SMA4eOAv1_YhOsYiujlVQ7zjNokdyBeHUQeJOtDqBkPfmmJdgcSa17=s300" group-title="MUSIC", Jihan Audy - Rela Demi Cinta
 https://www.googleapis.com/drive/v3/files/1tr7_yBFE3Bf28mKweA7k_LMOxLcwoW4k?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0 
-#EXTINF:-1 tvg-logo="https://img7.androidappsapk.co/zcj_Sh3mmXKiz9SMA4eOAv1_YhOsYiujlVQ7zjNokdyBeHUQeJOtDqBkPfmmJdgcSa17=s300" group-title="MUSIC",Jihan Audy - Sakit Dalam Bercinta  (Official Music Video) 
+#EXTINF:-1 tvg-logo="https://img7.androidappsapk.co/zcj_Sh3mmXKiz9SMA4eOAv1_YhOsYiujlVQ7zjNokdyBeHUQeJOtDqBkPfmmJdgcSa17=s300" group-title="MUSIC",Jihan Audy - Sakit Dalam Bercinta
 https://www.googleapis.com/drive/v3/files/1JPQ2nR3A6PA-hgt2DjRBikuheqdmS-GA?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0 
-#EXTINF:-1 tvg-logo="https://img7.androidappsapk.co/zcj_Sh3mmXKiz9SMA4eOAv1_YhOsYiujlVQ7zjNokdyBeHUQeJOtDqBkPfmmJdgcSa17=s300" group-title="MUSIC", Jihan Audy - Budal Rabi (Official Music Video) 
+#EXTINF:-1 tvg-logo="https://img7.androidappsapk.co/zcj_Sh3mmXKiz9SMA4eOAv1_YhOsYiujlVQ7zjNokdyBeHUQeJOtDqBkPfmmJdgcSa17=s300" group-title="MUSIC", Jihan Audy - Budal Rabi
 https://www.googleapis.com/drive/v3/files/1GHksIcYA7sYHc_CGrVgIpe6ewzBIJv3N?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0 
-#EXTINF:-1 tvg-logo="https://img7.androidappsapk.co/zcj_Sh3mmXKiz9SMA4eOAv1_YhOsYiujlVQ7zjNokdyBeHUQeJOtDqBkPfmmJdgcSa17=s300" group-title="MUSIC", Jihan Audy - Prei Kanan Kiri (Official Music)
+#EXTINF:-1 tvg-logo="https://img7.androidappsapk.co/zcj_Sh3mmXKiz9SMA4eOAv1_YhOsYiujlVQ7zjNokdyBeHUQeJOtDqBkPfmmJdgcSa17=s300" group-title="MUSIC", Jihan Audy - Prei Kanan Kiri
 https://www.googleapis.com/drive/v3/files/1NRfzF1qX32IsRcybk2Gd-j0_FuyicKBP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81TC0u24fsL._SS500_.jpg" group-title="MUSIC",Via Vallen - Meraih Bintang  (Official Music Video) 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81TC0u24fsL._SS500_.jpg" group-title="MUSIC",Via Vallen - Meraih Bintang 
 https://m.vidio.com/videos/1639063/vjs_playlist.m3u8 
  
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81TC0u24fsL._SS500_.jpg" group-title="MUSIC", Via Vallen - Selow  (Official Music Video) 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81TC0u24fsL._SS500_.jpg" group-title="MUSIC", Via Vallen - Selow
 https://m.vidio.com/videos/1829739/vjs_playlist.m3u8 
- 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81TC0u24fsL._SS500_.jpg" group-title="MUSIC", Via Vallen - Bro  (Official Music Video) 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81TC0u24fsL._SS500_.jpg" group-title="MUSIC", Via Vallen - Bro
 https://m.vidio.com/videos/1829825/vjs_playlist.m3u8 
- 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81TC0u24fsL._SS500_.jpg" group-title="MUSIC", Via Vallen - Bojo Galak (Official Music Video) 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81TC0u24fsL._SS500_.jpg" group-title="MUSIC", Via Vallen - Bojo Galak
 https://m.vidio.com/videos/1828825/vjs_playlist.m3u8 
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC", Bella Nova - Rumput Tetangga (Official Music Video) 
