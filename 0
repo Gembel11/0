@@ -1,4 +1,5 @@
-Iseng - Iseng Bikin
+WELCOME TO UZUMAKI TV
+PLEASE ENJOY TO WATCH MY TV CHANNEL
 Kalau Banyak Link Error Harap Maklum !!!!
 MASIH BERANTAKAN BOSSS !!!!!
 
@@ -201,7 +202,7 @@ http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="HIBURAN",HIBURAN
 https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
 
-========================  (( MOVIES ))  ================
+========================  (( MOVIES ))  ====================
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="MOVIES", Galaxy
 https://fikrulmkc.my.id/bagus/usee-galaxy.m3u8
@@ -216,7 +217,7 @@ https://fikrulmkc.my.id/bagus/usee-cinemaworld.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX" tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES",FOX
 https://nonton.site:8443/novi/novi123/95
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX ACTION MOVIES ID" tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="MOVIES",FOX ACTION MOVIES
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX ACTION MOVIES" tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="MOVIES",FOX ACTION MOVIES
 https://nonton.site:8443/novi/novi123/99
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX MOVIES" tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="MOVIES",FOX MOVIES
 https://nonton.site:8443/novi/novi123/98
@@ -637,7 +638,7 @@ https://d2ff34xrncjkdz.cloudfront.net/out/v1/2bcc2a28ecab4aeca5c18b64a4af0f17/in
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="BEIN SPORTS",BEIN SPORTS
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
-=================  KNOWLEDGE  ================
+====================  KNOWLEDGE  ===================
 
 #EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="KNOWLEDGE", ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
@@ -661,7 +662,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="KNOWLEDGE", KNOWLEDGE
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
-====================  NEWS  ==================
+====================   NEWS   ====================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFTLKT7/aljazeera.png" group-title="NEWS", Aljazeera AR
 http://210.210.155.35/qwr9ew/s/s16/01.m3u8
@@ -699,7 +700,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="NEWS", NEWS
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
-===================  (( KOREAN ))  ===================
+===================   (( KOREAN ))   ===================
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="KOREAN", K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
