@@ -221,13 +221,13 @@ https://nonton.site:8443/novi/novi123/95
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX ACTION MOVIES ID" tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="MOVIES",FOX ACTION MOVIES
 https://nonton.site:8443/novi/novi123/99
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX MOVIES" tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="MOVIES",FOX MOVIES
-https://nonton.site:8443/novi/novi123/98
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX LIFE" tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="MOVIES",FOX LIFE
 https://nonton.site:8443/novi/novi123/94
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX CRIME" tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="MOVIES",FOX CRIME
 https://nonton.site:8443/novi/novi123/763
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX FAMILY MOVIES" tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="MOVIES",FOX FAMILY MOVIES
-https://nonton.site:8443/novi/novi123/14994
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title="MOVIES",CINEMAX
 https://raw.githubusercontent.com/bacot123450/ttv/main/sinemax-simida-ga-iklash-gw-di-snif-capek-gw-buatnya-inget-yahh-lu-ngecopy-gw-gak-iklash-lu-dosa-jariyah!!!.m3u8
