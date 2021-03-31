@@ -242,29 +242,17 @@ https://andriant.net/baru/hbo-sighd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title="MOVIES",RED by HBO
 https://raw.githubusercontent.com/bacot123450/ttv/main/red%3Dmalingluya-capekGwBuatnya-enakbanget-lu-tinggal-ngesnifDoang-intinyaGwgakIklash-lumakeAtauNgejualAtauNgebuat-pasteYgbaru-dosaJariyahBuatluh!!!tinggalNontonDiaplikasi-iniAjahEmankKenapaTau.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="MOVIES",HBO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=cfcd208495d565ef66e7dff9f98764dad045c59a90d7587d8d671b5f5aec4e7c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="MOVIES",HBO SIGNATURE 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c4ca4238a0b923820dcc509a6f75849bd045c59a90d7587d8d671b5f5aec4e7c 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="MOVIES",HBO FAMILY 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=eccbc87e4b5ce2fe28308fd9f2a7baf3d045c59a90d7587d8d671b5f5aec4e7c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="MOVIES",HBO HITS 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862cd045c59a90d7587d8d671b5f5aec4e7c 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="MOVIES",RED BY HBO
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=e4da3b7fbbce2345d7772b0674a318d5d045c59a90d7587d8d671b5f5aec4e7c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES",CINEMAX 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=a87ff679a2f3e71d9181a67b7542122cd045c59a90d7587d8d671b5f5aec4e7c
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="MOVIES",HBO 
 http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/33b62539-fe26-4eae-a03f-75b5d1754f05.png" group-title="MOVIES",HBO Signature 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="MOVIES",HBO SIGNATURE 
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png" group-title="MOVIES",HBO Hits 
-http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png" group-title="MOVIES",HBO Family 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="MOVIES",HBO FAMILY 
 http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/40b8a63f-dde1-4813-9c62-3ffc0d7f35c8.png" group-title="MOVIES",Cinemax 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="MOVIES",HBO HITS 
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="MOVIES",RED BY HBO
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES",CINEMAX 
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png" group-title="MOVIES",Red By HBO 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=e4da3b7fbbce2345d7772b0674a318d5d045c59a90d7587d8d671b5f5aec4e7c
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
@@ -287,7 +275,7 @@ https://fikrulmkc.my.id/bagus/usee-warner.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MOVIES",UZUTV MOVIES
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
-=======================  MOVIES 2  =====================
+=====================  MOVIES 2  =====================
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES 2", Celestial Movie
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
@@ -596,23 +584,23 @@ http://zana@1.abdakaroukhai.xyz/live/79481245/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 3SD
 http://3.abdakaroukhai.xyz/live/161988840/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 4
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.m3u8
+
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 5
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.m3u8
+
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 6
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.m3u8
+
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 7
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.m3u8
+
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 8
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.m3u8
+
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 9
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.m3u8
+
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 10
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.m3u8
+
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 11
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", YAALAA SPORTS
-https://d2ff34xrncjkdz.cloudfront.net/out/v1/2bcc2a28ecab4aeca5c18b64a4af0f17/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 12
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="BEIN SPORTS",BEIN SPORTS
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
