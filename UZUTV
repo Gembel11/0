@@ -106,7 +106,7 @@ http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="TV LOKAL", TV LOKAL
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
-========================  (( KIDS ))  =====================
+=====================  (( KIDS ))  =====================
 
 #EXTINF:-1 tvg-ID="" tvg-name="ANIPLUS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="KIDS",ANIPLUS
 https://fikrulmkc.my.id/bagus/usee-aniplus.m3u8
@@ -155,10 +155,10 @@ http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="KIDS",TV KIDS
 https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
 
-====================== (( HIBURAN )) ==================
+===================== (( HIBURAN )) ==================
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="HIBURAN",AXN
-https://fikrulmkc.my.id/bagus/usee-axn.m3u8
+http://45.170.40.2:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="KIX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="HIBURAN", KIX
 https://fikrulmkc.my.id/bagus/usee-kix.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="HIBURAN", THRILL
@@ -201,12 +201,12 @@ http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="HIBURAN",HIBURAN
 https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
 
-========================  (( MOVIES ))  ================
+====================  (( MOVIES ))  ================
 
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png", CCM Movie
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES", Celestial Movie
-https://fikrulmkc.my.id/bagus/usee-celestialmovie.m3u8
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CHGDGns/MCE.png" group-title="MOVIES", Cinema EUROPE
 http://45.126.83.51/uq2663/h/h18/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES", Cinema World 
@@ -277,8 +277,8 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
 =====================  MOVIES 2  =====================
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES 2", Celestial Movie
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES 2", CINEMAX
+http://45.170.40.2:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4814StH/FLIX.png" group-title="MOVIES 2",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pT1VfTfQ/PICTURES.png" group-title="MOVIES 2",&Pictures
@@ -286,25 +286,24 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ5CN6nD/prive-hd.png" group-title="MOVIES 2", &PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES 2",CINEMAX 
-https://nonton.site:8443/novi/novi123/2156
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="MOVIES 2",HBO 
-https://nonton.site:8443/novi/novi123/210
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="MOVIES 2",HBO SIGNATURE 
-https://nonton.site:8443/novi/novi123/873
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="MOVIES 2",HBO SIGNATURE
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="MOVIES 2",HBO FAMILY 
-https://nonton.site:8443/novi/novi123/592
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="MOVIES 2",HBO HITS 
-https://nonton.site:8443/novi/novi123/591
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="MOVIES 2",RED BY HBO
-https://nonton.site:8443/novi/novi123/4832
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nj103QtY/SCM.png" group-title="MOVIES 2",SCM 
-https://nonton.site:8443/novi/novi123/780
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wYw7zrG/scm-legend.png" group-title="MOVIES 2",SCM Legend 
-https://nonton.site:8443/novi/novi123/1859
-#EXTINF:-1, group-title="MOVIES 2" tvg-logo="https://shoppersvila.com/wp-content/uploads/2020/01/Star-World-Tv-Schedule-Today-Star-World-Popular-shows-for-today-1024x624.png", STAR MOVIES WORLD
-https://nonton.site:8443/novi/novi123/381
-
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/Star-TV-logo-old.png" group-title="MOVIES 2",STAR ACTION 
+http://45.170.40.2:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/Star-TV-logo-old.png" group-title="MOVIES 2",STAR CHANNEL 
+http://45.170.40.2:8000/play/a04s/index.m3u8
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/Star-TV-logo-old.png" group-title="MOVIES 2",STAR CLASSICS
+http://45.170.40.2:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/Star-TV-logo-old.png" group-title="MOVIES 2",STAR FAMILY
+http://45.170.40.2:8000/play/a01p/index.m3u8
+#EXTINF:-1, group-title="MOVIES 2" tvg-logo="http://logok.org/wp-content/uploads/2014/05/Star-TV-logo-old.png",STAR HITS
+http://45.170.40.2:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/Star-TV-logo-old.png" group-title="MOVIES 2",STAR SERIES
+http://45.170.40.2:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="PAR.US" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="MOVIES 2",Paramount Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBX1YMrs/WOW-TV.png" group-title="MOVIES 2",WOW TV
@@ -468,6 +467,12 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ce220746856cda
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="SPORTS 2",ARENA SPORT 5
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c65ab974f6bdc47.m3u8
 
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/48208.png" group-title="SPORTS 2", ESPN 1
+http://45.170.40.2:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/313652.png" group-title="SPORTS 2", ESPN 2
+http://45.170.40.2:8000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1599226.png" group-title="SPORTS 2", ESPN 3
+http://45.170.40.2:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="SPORTS 2",Eurosport 1
 https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png" group-title="SPORTS 2",Eurosport 2
@@ -916,24 +921,18 @@ https://www.googleapis.com/drive/v3/files/1IfusjXxd89-HYp66Iu48ABoWoU_K7qy-?alt=
 https://www.googleapis.com/drive/v3/files/1xi3Do3V9W41_9jEAGqPFwSVYlR-Q1mvJ?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0 
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC", Wandra - Kelangan (Official Music Video) 
-https://www.googleapis.com/drive/v3/files/1HFr6h9nh_poApsUdFb6HabqZUYVP30Jt?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0 
+https://www.googleapis.com/drive/v3/files/1HFr6h9nh_poApsUdFb6HabqZUYVP30Jt?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC", Wandra - Kelangan 2 (Official Music Video) 
-https://www.googleapis.com/drive/v3/files/1f4NzIBBYUKWVliNyO15-EIl8jNsK2YT8?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0 
+https://www.googleapis.com/drive/v3/files/1f4NzIBBYUKWVliNyO15-EIl8jNsK2YT8?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC", Vita Alvia - Konco Turu (Official Music Video) 
-https://www.googleapis.com/drive/v3/files/17-CeSv5eULNioqfXuVPUmkx-pRk4TB_B?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0 
- 
+https://www.googleapis.com/drive/v3/files/17-CeSv5eULNioqfXuVPUmkx-pRk4TB_B?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="MUSIC",UZU TV Music
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
-================================
-(( VOD ANIMASI ))
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VoD - ANIMASI", Alive (2020)
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VoD - ANIMASI", Boruto Series
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="VoD - ANIMASI", One Piece Series
+======================= (( VOD ANIMASI ))
 
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/t16RjZq.jpg" group-title="VoD - ANIMASI",Altered Carbon: Resleeved (2020)
 https://lh3.googleusercontent.com/7OLP6M9nxhHH94oZF0Lli45nYDntGTmvmHqb9OnTeTvdb1jSPnjBcDxP1CJ89Dr8aw-IZdYuG9UGJUymew=m22
