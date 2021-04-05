@@ -162,9 +162,9 @@ https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
 ===================== (( HIBURAN )) ==================
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="HIBURAN",AXN
-http://45.170.40.2:8000/play/a00g/index.m3u8
+http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-id="KIX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="HIBURAN", KIX
-https://fikrulmkc.my.id/bagus/usee-kix.m3u8
+http://210.210.155.35/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="HIBURAN", THRILL
 https://fikrulmkc.my.id/bagus/usee-thrill.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="HIBURAN", BLUE ANT ENTERTAINMENT
@@ -207,7 +207,7 @@ http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="HIBURAN",HIBURAN
 https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
 
-====================  (( MOVIES ))  ================
+===================  (( MOVIES ))  =================
 
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png", CCM Movie
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
@@ -233,7 +233,7 @@ http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX LIFE" tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="MOVIES",FOX LIFE
 https://nonton.site:8443/novi/novi123/94
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX CRIME" tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="MOVIES",FOX CRIME
-https://nonton.site:8443/novi/novi123/763
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/01
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX FAMILY MOVIES" tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="MOVIES",FOX FAMILY MOVIES
 http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/21
 
@@ -249,6 +249,9 @@ https://andriant.net/baru/hbo-hitshd.m3u8
 http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/67
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title="MOVIES",RED by HBO
 https://raw.githubusercontent.com/bacot123450/ttv/main/red%3Dmalingluya-capekGwBuatnya-enakbanget-lu-tinggal-ngesnifDoang-intinyaGwgakIklash-lumakeAtauNgejualAtauNgebuat-pasteYgbaru-dosaJariyahBuatluh!!!tinggalNontonDiaplikasi-iniAjahEmankKenapaTau.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES",CINEMAX 
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="MOVIES",HBO
 http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="MOVIES",HBO SIGNATURE 
@@ -258,9 +261,6 @@ http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="MOVIES",HBO HITS 
 http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="MOVIES",RED BY HBO
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES",CINEMAX 
-http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
@@ -597,23 +597,14 @@ http://zana@1.abdakaroukhai.xyz/live/79481245/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 3SD
 http://3.abdakaroukhai.xyz/live/161988840/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 4
-
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 5
-
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 6
-
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 7
-
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 8
-
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 9
-
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 10
-
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 11
-
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 12
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="BEIN SPORTS",BEIN SPORTS
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
@@ -685,9 +676,9 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="KOREAN", K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="KOREAN", S ONE
-https://fikrulmkc.my.id/bagus/usee-sone.m3u8
+http://210.210.155.35/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN" group-title="KOREAN", TVN
-https://fikrulmkc.my.id/bagus/usee-tvn.m3u8
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" tvg-id="TVN" group-title="KOREAN", TVN (Video)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="KOREAN", TVN MOVIES 
@@ -704,24 +695,11 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/c
 http://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://static.epg.best/kr/tvN.kr.png" ,TVN KR
 http://140.238.16.178:9876/stream/channelid/333743197
-#EXTINF:-1, group-title="KOREAN" tvg-logo="", TVN (NO SUB)
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF:-1, group-title="KOREAN" tvg-logo="", S ONE (NO SUB)
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
+#EXTINF:-1, group-title="KOREAN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13", S ONE (NO SUB)
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-id="YTN.KR" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="KOREAN",YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
-
-#EXTINF:-1, group-title="KOREAN" tvg-logo="", K+
-https://nonton.site:8443/novi/novi123/18
-#EXTINF:-1, group-title="KOREAN" tvg-logo="", S GEM
-https://nonton.site:8443/novi/novi123/770
-#EXTINF:-1, group-title="KOREAN" tvg-logo="", S ONE
-https://nonton.site:8443/novi/novi123/19
-#EXTINF:-1, group-title="KOREAN" tvg-logo="", TVN
-https://nonton.site:8443/novi/novi123/767
-#EXTINF:-1, group-title="KOREAN" tvg-logo="", WAKU-WAKU JAPAN
-https://nonton.site:8443/novi/novi123/717
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="KOREAN",KOREAN
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
@@ -729,7 +707,7 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 ==================  ((( JAPAN )))  ==================
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="JAPAN", S GEM
-https://fikrulmkc.my.id/bagus/usee-sgem.m3u8
+http://210.210.155.35/uq2663/h/h19/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="JAPAN", Waku Waku Japan
 https://fikrulmkc.my.id/bagus/usee-wakuwaku.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="JAPAN", NHK WORLD
