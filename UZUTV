@@ -240,16 +240,15 @@ http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title="MOVIES",CINEMAX
 https://raw.githubusercontent.com/bacot123450/ttv/main/sinemax-simida-ga-iklash-gw-di-snif-capek-gw-buatnya-inget-yahh-lu-ngecopy-gw-gak-iklash-lu-dosa-jariyah!!!.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title="MOVIES",HBO
-http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/65
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="MOVIES",HBO FAMILY
-http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/68
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkNFn5xS/10626238-ico.png" group-title="MOVIES",HBO HITS
-https://andriant.net/baru/hbo-hitshd.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjPk4Btd/10626267-ico.png" group-title="MOVIES",HBO SIGNATURE
-http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/67
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title="MOVIES",RED by HBO
-https://raw.githubusercontent.com/bacot123450/ttv/main/red%3Dmalingluya-capekGwBuatnya-enakbanget-lu-tinggal-ngesnifDoang-intinyaGwgakIklash-lumakeAtauNgejualAtauNgebuat-pasteYgbaru-dosaJariyahBuatluh!!!tinggalNontonDiaplikasi-iniAjahEmankKenapaTau.m3u8
-
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES",CINEMAX 
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="MOVIES",HBO
@@ -261,20 +260,16 @@ http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="MOVIES",HBO HITS 
 http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="MOVIES",RED BY HBO
+https://raw.githubusercontent.com/bacot123450/ttv/main/red%3Dmalingluya-capekGwBuatnya-enakbanget-lu-tinggal-ngesnifDoang-intinyaGwgakIklash-lumakeAtauNgejualAtauNgebuat-pasteYgbaru-dosaJariyahBuatluh!!!tinggalNontonDiaplikasi-iniAjahEmankKenapaTau.m3u8
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="MOVIES",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="Hbh.Asia" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="MOVIES",HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="MOVIES",HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://i.ibb.co/wgxTrzm/red.png" group-title="MOVIES",Red by HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsZx1mY.jpg" group-title="MOVIES", HBO HD
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsZx1mY.jpg" group-title="MOVIES", HBO
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="MOVIES", WARNER
@@ -503,13 +498,9 @@ http://iptvtree.net:8080/Line1051/f4fffd47/82628
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_hk_select_hd_2.png" group-title="SPORTS 2",Star Sports Select 2 HD
 http://iptvtree.net:8080/Line1051/f4fffd47/201082
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="SPORTS 2",RMC Sport 1
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/35bebda7c9c68f9.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-2-fr.png" group-title="SPORTS 2",RMC Sport 2
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/652414abcb12df0.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-3-fr.png" group-title="SPORTS 2",RMC Sport 3
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/7520f659ff3b580.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-4-fr.png" group-title="SPORTS 2",RMC Sport 4
-http://tv.iptvpl.itv.world:8080/0qqa0fplar/2dmkq4493/682959
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",true sport  HD 1
 http://160.119.77.116:8081/iptv/hd-tsport1.stream/chunks.m3u8
