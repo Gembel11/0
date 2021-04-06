@@ -411,14 +411,13 @@ http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ogiX67s7-ngXWADPdP7Oo3k7uQiHHG6V5A&usqp=CAU",BT Sport 1 HD
-http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/chunks.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_y1y9xW3DmWRguard-I1R8QYBkvV5p8KGCg&usqp=CAU",BT Sport 2 HD
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/chunks.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_nFv0hF0YjEtd7GkPn207jzQb9Z_Z29rqwg&usqp=CAU",BT Sport 3 HD
-http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT Sport 1
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="SPORTS",BT Sport 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="SPORTS",BT Sport 3
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/ElevenSports_1.png" tvg-name="ELEVEN SPORTS 1" group-title="SPORTS",ELEVEN SPORTS 1
@@ -443,6 +442,12 @@ http://iptvtree.net:8080/Line1051/f4fffd47/56191
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/ufY58P.jpg" group-title="SPORTS",Sony Six
 http://iptvtree.net:8080/Line1051/f4fffd47/4853
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://guljaj.com/kanaly/42.jpg",Футбол 1HD
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://guljaj.com/kanaly/43.jpg",Футбол 2HD
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://guljaj.com/kanaly/44.jpg",Футбол 3HD
+https://95-213-224-179.livesports24.online/football3ua.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_tv.png" group-title="SPORTS",Матч!
 https://95-213-224-181.livesports24.online/ooomatch.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_tv.png" group-title="SPORTS",Матч!1
@@ -523,16 +528,20 @@ https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",true sport 7
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 
+#EXTINF:0 group-title="SPORTS 2" tvg-logo="https://i.ibb.co/DtPTkqK/bm.jpg" ,BAYERN MUNCHEN TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/es-real-madrid-tv-8842.jpg" group-title="SPORTS 2", REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/6c/50/0d/6c500dee-bed0-b482-9a79-78c134267b12/source/512x512bb.jpg" group-title="SPORTS 2", MU TV
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1627.ts
-#EXTINF:-1 tvg-logo="https://archive.org/download/LfcTv/lfc%20tv.png" group-title="SPORTS 2", LIVERPOOL TV
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1625.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VVYqb9q/mu.png" group-title="SPORTS 2", MU TV
+https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zGzfJZ1/lfc.jpg" group-title="SPORTS 2", LIVERPOOL TV
+https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://i.ibb.co/LhMZySH/red-bull-tv.png" ,RED BULL TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-EXMnQZDjrR0/XA-wIxAIXdI/AAAAAAAADmE/B-6jWSCHQKsxckiFpfpObLqOY5DPJDqcQCLcBGAs/s320/Frekuensi%2BSiaran%2BFight%2BSports%2BSatelit%2BAsiasat%2B7.jpg" group-title="SPORTS 2", FIGTH SPORT
 http://45.126.83.51/uq2663/h/h05/01.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",Golf Channel
-https://nonton.site:8443/novi/novi123/561
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8      	  	
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/481-4817028_highlight-png-transparent-png.png" group-title="SPORTS 2", HIGHLIGHT TV
 http://45.126.83.51/uq2663/h/h09/01.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847%21NBA_TV_Philippines.png",NBA TV
@@ -597,13 +606,21 @@ http://zana@1.abdakaroukhai.xyz/live/79481245/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 3SD
 http://3.abdakaroukhai.xyz/live/161988840/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 4
+https://95-213-224-179.livesports24.online/khlhdru.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 5
+https://95-213-224-179.livesports24.online/mpremierrus.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 6
+https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 7
+https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 8
+https://95-213-224-179.livesports24.online/rumatcharena.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 9
+https://95-213-224-179.livesports24.online/migra.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 10
+https://95-213-224-179.livesports24.online/matchplanetarus.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 11
+https://95-213-224-179.livesports24.online/footballrus.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg" group-title="BEIN SPORTS", Bein Sports 12
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="BEIN SPORTS",BEIN SPORTS
@@ -871,11 +888,12 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTTfn8YX/MOLATV.png" group-title="MUSIC",MOLATV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/6EIy-Lc9b2I4BS4p5ok3NaKI0vYvmdfSceBCmMqI5UFQfsTvp2FsU2MprfIYclfRbt4=s300" group-title="MUSIC", Happy Asmara - Sambel Terasi (DJ Remix
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/6EIy-Lc9b2I4BS4p5ok3NaKI0vYvmdfSceBCmMqI5UFQfsTvp2FsU2MprfIYclfRbt4=s300" group-title="MUSIC", Happy Asmara - Sambel Terasi (DJ Remix)
 https://www.googleapis.com/drive/v3/files/1FcuEk1IEKq5bOa3x-HV4X_neWS2_GCKg?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
 #EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/6EIy-Lc9b2I4BS4p5ok3NaKI0vYvmdfSceBCmMqI5UFQfsTvp2FsU2MprfIYclfRbt4=s300" group-title="MUSIC", Happy Asmara - Bojomu Semangatku
-https://www.googleapis.com/drive/v3/files/1wHDTk537d1YNA1ul8WPEpad98hjDC0Id?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0 
-
+https://www.googleapis.com/drive/v3/files/1wHDTk537d1YNA1ul8WPEpad98hjDC0Id?alt=media&key=AIzaSyB7iXCZQYMAkI32ibo6HfuhmbpAz43Asi0
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/6EIy-Lc9b2I4BS4p5ok3NaKI0vYvmdfSceBCmMqI5UFQfsTvp2FsU2MprfIYclfRbt4=s300" group-title="MUSIC",Happy Asmara - Suaramu Syairku
+https://media.publit.io/file/Happy-Asmara-Suaramu-Syairku-aputra87.ts.mp4
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-GWYMMjhwXzeU4xG8-PgmTDA-t500x500.jpg" group-title="MUSIC", Denny Caknan - Kartonyono Medot Janji
 https://www.googleapis.com/drive/v3/files/1GtlFcxeYlcBesYsLXQ5lnnqCuNY6O_Pj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
  
