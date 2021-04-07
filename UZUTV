@@ -173,7 +173,7 @@ http://45.126.83.51/dr9445/h/h16/index.m3u8
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzBHFDYf/hits.png" group-title="HIBURAN",HITS
 http://210.210.155.35:80/uq2663/h/h37/01.m3u8
-#EXTINF:-1 tvg-logo=https://i.ibb.co/SBmM0M0/mycinemalogo.png group-title="HIBURAN",MY CINEMA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SBmM0M0/mycinemalogo.png" group-title="HIBURAN",MY CINEMA
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="HIBURAN", FLIK
 https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214567272.m3u8 
