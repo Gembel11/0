@@ -209,6 +209,8 @@ https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg
 
 ===================  (( MOVIES ))  =================
 
+#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="AXN MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="MOVIES",AXN MOVIES
+http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21386.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png", CCM Movie
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES", Celestial Movie
@@ -225,17 +227,19 @@ https://fikrulmkc.my.id/bagus/usee-galaxy.m3u8
 https://fikrulmkc.my.id/bagus/usee-galaxypremium.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX" tvg-logo="https://i.ibb.co/WHS5GLc/fox.png" group-title="MOVIES",FOX
-http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/22
+http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21387.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX ACTION MOVIES ID" tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="MOVIES",FOX ACTION MOVIES
 https://nonton.site:8443/novi/novi123/99
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX MOVIES" tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="MOVIES",FOX MOVIES
-http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/63
+http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21390.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX LIFE" tvg-logo="https://i.ibb.co/N2QyPx7/foxlife.png" group-title="MOVIES",FOX LIFE
-https://nonton.site:8443/novi/novi123/94
+http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21398.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX CRIME" tvg-logo="https://i.ibb.co/Ch6wScc/foxcrime.png" group-title="MOVIES",FOX CRIME
-http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/01
+http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21394.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX FAMILY MOVIES" tvg-logo="https://i.ibb.co/MVtvTyF/foxfamilymovies.png" group-title="MOVIES",FOX FAMILY MOVIES
 http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/21
+#EXTINF:-1 tvg-id="FOX COMEDY" tvg-name="FOX COMEDY" tvg-logo="https://i.pinimg.com/474x/ed/f4/f4/edf4f4f06bd7b5544b3a2d9e1b327988--comedy-foxes.jpg" group-title="MOVIES",FOX COMEDY
+http://prosoccer.xyz:8080/live/andrerodrigues/m1I5bMXdl3/21396.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title="MOVIES",CINEMAX
 https://raw.githubusercontent.com/bacot123450/ttv/main/sinemax-simida-ga-iklash-gw-di-snif-capek-gw-buatnya-inget-yahh-lu-ngecopy-gw-gak-iklash-lu-dosa-jariyah!!!.m3u8
