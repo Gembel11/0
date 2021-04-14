@@ -70,7 +70,7 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="TV INDO", TV INDO
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
 
-======================  (( LOKAL ))  ======================
+====================  (( LOKAL ))  =====================
 
 #EXTINF:-1 tvg-id="" tvg-name="BALI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="TV LOKAL",BALI TV 
 https://nonton.site:8443/novi/novi123/889
@@ -100,7 +100,7 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TATV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/TATV_logo.svg/400px-TATV_logo.svg.png" group-title="TV LOKAL", TATV
 http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040332.png" group-title="TV LOKAL",TVKU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rNkGFjI.png" group-title="TV LOKAL",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rsML9k4Y/20200104-212348.jpg" group-title="TV LOKAL", TV LOKAL
@@ -433,13 +433,9 @@ http://ott-cdn.ucom.am/s81/01.m3u8
 http://ott-cdn.ucom.am/s82/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
-http://iptvtree.net:8080/Line1051/f4fffd47/74893
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS",Sony Ten 2
-http://iptvtree.net:8080/Line1051/f4fffd47/56190
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
-http://iptvtree.net:8080/Line1051/f4fffd47/56191
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/ufY58P.jpg" group-title="SPORTS",Sony Six
-http://iptvtree.net:8080/Line1051/f4fffd47/4853
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://guljaj.com/kanaly/42.jpg",Футбол 1HD
 https://95-213-224-179.livesports24.online/uafootballua1.m3u8
