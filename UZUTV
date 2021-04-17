@@ -693,7 +693,7 @@ https://m3u-editor.com:443/live/tfwqsdxe/no6woqyr/214569138.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png" group-title="NEWS", IDX
 https://cdn13jtedge.useetv.com/joss/14/idx/chunklist_w517092020_b684100_sleng_kamiselaluada.m3u8?enc=wDL0-lTYIOJW1xPt-k6_Iw&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1613017881
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rt.png" group-title="NEWS",RUSSIA TODAY
+#EXTINF:-1 tvg-logo="https://www.stopfake.org/content/uploads/2015/05/Russia-Today-Logo.jpg" group-title="NEWS",RUSSIA TODAY
 http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/xlogo_seatoday_small.png,qv=1.pagespeed.ic.sQnf1cq2SF.webp" group-title="NEWS", SEA TODAY
 https://fikrulmkc.my.id/bagus/usee-seatoday.m3u8
@@ -840,7 +840,7 @@ https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b86400
 https://mn-nl.mncdn.com/pertiwitv/pertiwitv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhWtG1Y7/1591197814797.png" group-title="MALAYSIA",TV Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvcjJwjh/1591197792932.png" group-title="MALYSIA",RTB
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvcjJwjh/1591197792932.png" group-title="MALAYSIA",RTB
 https://rtb-channel.glue.live/smil:rtb1/chunklist_w580207437_b2736000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h4wtRqCD/1591197712014.png" group-title="MALAYSIA",RTM Berita
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b864000.m3u8
